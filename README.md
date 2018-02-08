@@ -27,11 +27,10 @@ In order to install the necessary libraries, use the [install-xxxx.sh](./install
 These are the suggested steps:
 
 1. Clone the repo and cd to it on a Terminal.
-2. Clone this repo.
-3. Make a build directory: `mkdir build && cd build`
-4. Compile: `cmake .. && make`
-5. Start the Simulator
-6. Run it by the following command: 
+2. Make a build directory: `mkdir build && cd build`
+3. Compile: `cmake .. && make`
+4. Start the Simulator
+5. Run it by the following command: 
    * `./ExtendedKF`
   
 ## Running the Filter
